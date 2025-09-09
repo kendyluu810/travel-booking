@@ -70,5 +70,3 @@ npm run preview
 
 
 Made with React + Vite ⚡
-
-> Replace placeholder sections (license, repo URL, roadmap) as your project evolves.
