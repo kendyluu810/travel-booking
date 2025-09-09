@@ -92,7 +92,7 @@ const Home = () => {
               </div>
             ))}
           </div>
-          <button className="mt-12 bg-[#092410] hover:bg-green-700 text-white font-bold py-3 px-8 rounded-lg transition-colors duration-300">
+          <button className="mt-12 bg-[#20823A] hover:bg-[#72D48C] text-white font-bold py-3 px-8 rounded-lg transition-colors duration-300">
             Explore More
           </button>
         </div>
